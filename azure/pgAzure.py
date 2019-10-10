@@ -1,7 +1,7 @@
 from pprint import pprint
 import datetime
 from glob import glob
-import os,sys
+import os, sys
 from azure.sqlCon import OraConn, PgCon
 
 if sys.version_info[0] > 2:
@@ -19,8 +19,8 @@ class MetaDb(object):
         self.meta_sect = dict(self.config.items('pg_meta_db'))
         self.meta_db_obj = PgCon(self.meta_sect)
 
-    def get_meta_details(self,feed_id,run_id):
-        return self.set_meta_details(feed_id,run_id)
+    def get_meta_details(self,feed_id, run_id):
+        return self.set_meta_details(feed_id, run_id)
 
     def get_target_details(self,target_name):
         return self.get_target_details(target_name)
@@ -52,7 +52,7 @@ class MetaDb(object):
 
 class PgLoad(object):
 
-    def __int__(self,feedId,runid,targetName):
+    def __int__(self, feedId, runid, targetName):
         self.feedId = feedId
         self.runid = runid
         self.targetName = targetName
@@ -101,3 +101,8 @@ if __name__ == '__main__':
     feedId = 825
     run_id = '157032037200001'
     targetName = 'hAzureDemo'
+
+    # feedId = sys.argv[1]
+    # run_id = sys.argv[2]
+    # targetName = sys.argv[3]
+
