@@ -1,7 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa4960d6-6378-4580-ba9d-c59a6578b723" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jpostgres/JRecon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jpostgres/Jcrypto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jpostgres/pgAzure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jpostgres/pgcopy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jpostgres/sqlCon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jpostgres/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/AzureLoad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/HEAD" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/HEAD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/config" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.pack" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/pgAzure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/pgcopy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/refs/heads/master" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/refs/heads/master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/sqlCon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure/test.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sadik0474 &lt;sadik.0474@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1S0cdWC7Kq8pDDNByTGd8gFRkdE" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sqlCon">
+    <configuration name="Jcrypto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cubexpostgre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/azure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/azure/Jcrypto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pgAzure (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cubexpostgre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jpostgres" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jpostgres/pgAzure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pgAzure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cubexpostgre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/azure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/azure/pgAzure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlCon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cubexpostgre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jpostgres" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jpostgres/sqlCon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cubexpostgre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jpostgres" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jpostgres/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sqlCon" />
+        <item itemvalue="Python.pgAzure (1)" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.pgAzure" />
+        <item itemvalue="Python.Jcrypto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4960d6-6378-4580-ba9d-c59a6578b723" name="Default Changelist" comment="" />
+      <created>1570704040675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570704040675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Jpostgres/pgAzure.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
