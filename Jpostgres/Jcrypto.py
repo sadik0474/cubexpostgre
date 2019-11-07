@@ -46,5 +46,5 @@ if __name__ == '__main__':
     projectId = "100"
     systemSeq = "46"
     credential_id = "31"
-    kms_obj = JKMService()
+    kms_obj = JKMService()c
     print(kms_obj.decrypt(projectId, systemSeq, credential_id))

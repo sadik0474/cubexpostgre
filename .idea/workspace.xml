@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4960d6-6378-4580-ba9d-c59a6578b723" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jpostgres/JRecon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jpostgres/Jcrypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jpostgres/pgAzure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jpostgres/pgcopy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jpostgres/sqlCon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jpostgres/temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/AzureLoad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/HEAD" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/HEAD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/config" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.pack" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-6796f5068ca005b260fbfcb633350058019666be.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/objects/pack/pack-7d1ab5da378bc2fc6c98dd325f39e59ecdc0b7b8.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/pgAzure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/pgcopy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/refs/heads/master" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/refs/heads/master" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/sqlCon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/azure/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jpostgres/Jcrypto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jpostgres/Jcrypto.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
